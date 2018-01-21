@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "553886498428",
+    "firebase_url": "https://tarotapp-61bac.firebaseio.com",
+    "project_id": "tarotapp-61bac",
+    "storage_bucket": "tarotapp-61bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553886498428:android:b004a37b2d722704",
+        "android_client_info": {
+          "package_name": "com.wellness.tarotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553886498428-noj0ah0fot58el0c4les4fscg9n00fsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wellness.tarotapp",
+            "certificate_hash": "a4106b41fe723b7caedd46dfd6332b85d9e2f281"
+          }
+        },
+        {
+          "client_id": "553886498428-nhckm3qhmkthrim55hr4apblbtb4pjmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGUnACReCIwlhliKX5WOiN2D09npNwm64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553886498428-nhckm3qhmkthrim55hr4apblbtb4pjmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
